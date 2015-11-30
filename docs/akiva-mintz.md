@@ -2,5 +2,6 @@
 [ ] Akiva Mintz
      - [ ] North carolina
      - [ ] chips
-     - [ ] programming
+     - [ ] programming and other stuff
+     
      
